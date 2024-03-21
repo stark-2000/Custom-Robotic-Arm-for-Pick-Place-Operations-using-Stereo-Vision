@@ -30,7 +30,5 @@ https://github.com/stark-2000/Custom-Robotic-Arm-for-Pick-Place-Operations-using
 
 ![PXL_20230516_234933676](https://github.com/stark-2000/Custom-Robotic-Arm-for-Pick-Place-Operations-using-Stereo-Vision/assets/78305300/ec972dbf-eb6d-4ebf-91f7-66c3c186f383)
 
-![PXL_20230517_001122218](https://github.com/stark-2000/Custom-Robotic-Arm-for-Pick-Place-Operations-using-Stereo-Vision/assets/78305300/0ec7d742-4501-4d29-9347-70fdf14d779b)
-
 ![PXL_20230516_235032419](https://github.com/stark-2000/Custom-Robotic-Arm-for-Pick-Place-Operations-using-Stereo-Vision/assets/78305300/1604eb63-f488-4a14-a3b0-61c9f6336ab3)
 
