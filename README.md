@@ -24,3 +24,5 @@ Engineered a cutting-edge 𝟔-𝗗𝗼𝗙 𝗺𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁
     - https://youtu.be/uZFN3-d_hQE 
 - Demo2_with_Dume: In the previous part, we extracted the real world 3D coordinate of the object of interest, so in this video we are publishing the extracted coordinates to ROS MoveIT which plans a trajectory using KDL IK solver and RRT planner and publishes the joint angles to hardware servo motors and Gazebo model.
     - https://youtu.be/7Xjhg34qU5E 
+
+https://github.com/stark-2000/Custom-Robotic-Arm-for-Pick-Place-Operations-using-Stereo-Vision/assets/78305300/713dab40-c81f-44ad-83a0-75192ce5a7a0
