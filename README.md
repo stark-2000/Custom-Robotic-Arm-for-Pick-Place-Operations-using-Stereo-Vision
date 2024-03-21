@@ -17,3 +17,10 @@ Engineered a cutting-edge 𝟔-𝗗𝗼𝗙 𝗺𝗮𝗻𝗶𝗽𝘂𝗹𝗮𝘁
 
 ✦ 𝗧𝗮𝗶𝗹𝗼𝗿𝗲𝗱 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰𝘀 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻:
 - Developed and fabricated a 𝗰𝘂𝘀𝘁𝗼𝗺 𝗣𝗖𝗕 with Arduino and interface circuitry, precisely tailored to the manipulator's 𝗖𝗔𝗗 model, ensuring optimal functionality and seamless integration.
+
+
+## Demo Videos:
+- Demo1_without_Dume: In this video we are trying to extract the real world 3D coordinates of an object using YOLOv8 and Stereo Camera
+    - https://youtu.be/uZFN3-d_hQE 
+- Demo2_with_Dume: In the previous part, we extracted the real world 3D coordinate of the object of interest, so in this video we are publishing the extracted coordinates to ROS MoveIT which plans a trajectory using KDL IK solver and RRT planner and publishes the joint angles to hardware servo motors and Gazebo model.
+    - https://youtu.be/7Xjhg34qU5E 
